@@ -12,15 +12,13 @@ div {
   text-align: center;
 }
 
-div a {
-  padding: .4em .75em;
+.btn {
+  padding: .55em .75em;
   color: #fff;
+  background-color: #333;
   text-decoration: none;
   border-radius: 8px;
   display: inline-block;
-}
-
-.btn-normal {
   font-size: 1.125rem;
 }
 
@@ -30,11 +28,6 @@ div a {
 
 .btn-small {
   font-size: .875rem;
-}
-
-.btn {
-  background-color: #333;
-  display: inline-block;
 }
 
 .btn:hover {
